@@ -1,0 +1,330 @@
+Cube
+Type: 1
+Position: 0 0 -5
+Rotation: 0 0 0
+Scale: 10 3 0.5
+PhysicsComponent: 0
+Cube(1)
+Type: 1
+Position: 0 0 5
+Rotation: 0 0 0
+Scale: 10 5 0.5
+PhysicsComponent: 0
+Cube(2)
+Type: 1
+Position: 5 0 0
+Rotation: 0 0 0
+Scale: 0.5 5 10
+PhysicsComponent: 0
+Cube(3)
+Type: 1
+Position: -5 0 0
+Rotation: 0 0 0
+Scale: 0.5 3 10
+PhysicsComponent: 0
+RigidPlane
+Type: 2
+Position: 0 0 0
+Rotation: 0 0 0
+Scale: 10 0.1 10
+PhysicsComponent: 1
+RigidCube
+Type: 1
+Position: -3 1 -3
+Rotation: 0 0 0
+Scale: 1 1 1
+PhysicsComponent: 1
+RigidCube(1)
+Type: 1
+Position: 1 2 -2
+Rotation: 0 0 0
+Scale: 1 1 1
+PhysicsComponent: 1
+RigidCube(2)
+Type: 1
+Position: 2 2 1
+Rotation: 0 0 0
+Scale: 1 1 1
+PhysicsComponent: 1
+RigidCube(3)
+Type: 1
+Position: -3 0 -2
+Rotation: 0 0 0
+Scale: 1 1 1
+PhysicsComponent: 1
+RigidCube(4)
+Type: 1
+Position: 1 2 -3
+Rotation: 0 0 0
+Scale: 1 1 1
+PhysicsComponent: 1
+RigidCube(5)
+Type: 1
+Position: 2 2 -1
+Rotation: 0 0 0
+Scale: 1 1 1
+PhysicsComponent: 1
+RigidCube(6)
+Type: 1
+Position: 2 1 2
+Rotation: 0 0 0
+Scale: 1 1 1
+PhysicsComponent: 1
+RigidCube(7)
+Type: 1
+Position: -1 2 1
+Rotation: 0 0 0
+Scale: 1 1 1
+PhysicsComponent: 1
+RigidCube(8)
+Type: 1
+Position: -1 0 1
+Rotation: 0 0 0
+Scale: 1 1 1
+PhysicsComponent: 1
+RigidCube(9)
+Type: 1
+Position: 2 1 1
+Rotation: 0 0 0
+Scale: 1 1 1
+PhysicsComponent: 1
+RigidCube(10)
+Type: 1
+Position: 2 0 -2
+Rotation: 0 0 0
+Scale: 1 1 1
+PhysicsComponent: 1
+RigidCube(11)
+Type: 1
+Position: -3 1 1
+Rotation: 0 0 0
+Scale: 1 1 1
+PhysicsComponent: 1
+RigidCube(12)
+Type: 1
+Position: 0 2 -2
+Rotation: 0 0 0
+Scale: 1 1 1
+PhysicsComponent: 1
+RigidCube(13)
+Type: 1
+Position: -1 0 2
+Rotation: 0 0 0
+Scale: 1 1 1
+PhysicsComponent: 1
+RigidCube(14)
+Type: 1
+Position: 0 2 1
+Rotation: 0 0 0
+Scale: 1 1 1
+PhysicsComponent: 1
+RigidCube(15)
+Type: 1
+Position: 1 1 -2
+Rotation: 0 0 0
+Scale: 1 1 1
+PhysicsComponent: 1
+RigidCube(16)
+Type: 1
+Position: -2 2 -2
+Rotation: 0 0 0
+Scale: 1 1 1
+PhysicsComponent: 1
+RigidCube(17)
+Type: 1
+Position: -1 0 -1
+Rotation: 0 0 0
+Scale: 1 1 1
+PhysicsComponent: 1
+RigidCube(18)
+Type: 1
+Position: 0 1 0
+Rotation: 0 0 0
+Scale: 1 1 1
+PhysicsComponent: 1
+RigidCube(19)
+Type: 1
+Position: -1 2 2
+Rotation: 0 0 0
+Scale: 1 1 1
+PhysicsComponent: 1
+RigidCube(20)
+Type: 1
+Position: -1 2 -2
+Rotation: 0 0 0
+Scale: 1 1 1
+PhysicsComponent: 1
+RigidCube(21)
+Type: 1
+Position: -2 0 -2
+Rotation: 0 0 0
+Scale: 1 1 1
+PhysicsComponent: 1
+RigidCube(22)
+Type: 1
+Position: -1 2 -3
+Rotation: 0 0 0
+Scale: 1 1 1
+PhysicsComponent: 1
+RigidCube(23)
+Type: 1
+Position: 0 0 -3
+Rotation: 0 0 0
+Scale: 1 1 1
+PhysicsComponent: 1
+RigidCube(24)
+Type: 1
+Position: 1 2 1
+Rotation: 0 0 0
+Scale: 1 1 1
+PhysicsComponent: 1
+RigidCube(25)
+Type: 1
+Position: -1 0 2
+Rotation: 0 0 0
+Scale: 1 1 1
+PhysicsComponent: 1
+RigidCube(26)
+Type: 1
+Position: 1 0 1
+Rotation: 0 0 0
+Scale: 1 1 1
+PhysicsComponent: 1
+RigidCube(27)
+Type: 1
+Position: 0 2 1
+Rotation: 0 0 0
+Scale: 1 1 1
+PhysicsComponent: 1
+RigidCube(28)
+Type: 1
+Position: -2 1 -1
+Rotation: 0 0 0
+Scale: 1 1 1
+PhysicsComponent: 1
+RigidCube(29)
+Type: 1
+Position: 1 0 0
+Rotation: 0 0 0
+Scale: 1 1 1
+PhysicsComponent: 1
+RigidCube(30)
+Type: 1
+Position: 0 1 2
+Rotation: 0 0 0
+Scale: 1 1 1
+PhysicsComponent: 1
+RigidCube(31)
+Type: 1
+Position: -1 0 0
+Rotation: 0 0 0
+Scale: 1 1 1
+PhysicsComponent: 1
+RigidCube(32)
+Type: 1
+Position: -1 0 -1
+Rotation: 0 0 0
+Scale: 1 1 1
+PhysicsComponent: 1
+RigidCube(33)
+Type: 1
+Position: 2 0 1
+Rotation: 0 0 0
+Scale: 1 1 1
+PhysicsComponent: 1
+RigidCube(34)
+Type: 1
+Position: 1 2 -3
+Rotation: 0 0 0
+Scale: 1 1 1
+PhysicsComponent: 1
+RigidCube(35)
+Type: 1
+Position: -2 0 2
+Rotation: 0 0 0
+Scale: 1 1 1
+PhysicsComponent: 1
+RigidCube(36)
+Type: 1
+Position: 0 1 0
+Rotation: 0 0 0
+Scale: 1 1 1
+PhysicsComponent: 1
+RigidCube(37)
+Type: 1
+Position: 0 2 -2
+Rotation: 0 0 0
+Scale: 1 1 1
+PhysicsComponent: 1
+RigidCube(38)
+Type: 1
+Position: 2 0 -3
+Rotation: 0 0 0
+Scale: 1 1 1
+PhysicsComponent: 1
+RigidCube(39)
+Type: 1
+Position: 1 0 -2
+Rotation: 0 0 0
+Scale: 1 1 1
+PhysicsComponent: 1
+RigidCube(40)
+Type: 1
+Position: 1 1 -3
+Rotation: 0 0 0
+Scale: 1 1 1
+PhysicsComponent: 1
+RigidCube(41)
+Type: 1
+Position: -2 2 0
+Rotation: 0 0 0
+Scale: 1 1 1
+PhysicsComponent: 1
+RigidCube(42)
+Type: 1
+Position: -2 2 1
+Rotation: 0 0 0
+Scale: 1 1 1
+PhysicsComponent: 1
+RigidCube(43)
+Type: 1
+Position: -2 1 -3
+Rotation: 0 0 0
+Scale: 1 1 1
+PhysicsComponent: 1
+RigidCube(44)
+Type: 1
+Position: -2 2 1
+Rotation: 0 0 0
+Scale: 1 1 1
+PhysicsComponent: 1
+RigidCube(45)
+Type: 1
+Position: -1 1 2
+Rotation: 0 0 0
+Scale: 1 1 1
+PhysicsComponent: 1
+RigidCube(46)
+Type: 1
+Position: -2 2 2
+Rotation: 0 0 0
+Scale: 1 1 1
+PhysicsComponent: 1
+RigidCube(47)
+Type: 1
+Position: 1 2 -3
+Rotation: 0 0 0
+Scale: 1 1 1
+PhysicsComponent: 1
+RigidCube(48)
+Type: 1
+Position: 1 1 1
+Rotation: 0 0 0
+Scale: 1 1 1
+PhysicsComponent: 1
+RigidCube(49)
+Type: 1
+Position: 1 2 -3
+Rotation: 0 0 0
+Scale: 1 1 1
+PhysicsComponent: 1

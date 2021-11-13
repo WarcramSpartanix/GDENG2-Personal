@@ -1,0 +1,6 @@
+﻿  AppWindow.cpp
+  Model.cpp
+D:\Programs\GD-ENG2\GDENG2 Initial\Project1\Model.cpp(37,38): warning C4267: '=': conversion from 'size_t' to 'UINT', possible loss of data
+D:\Programs\GD-ENG2\GDENG2 Initial\Project1\Model.cpp(48,87): warning C4267: 'argument': conversion from 'size_t' to 'UINT', possible loss of data
+  Generating Code...
+  Project1.vcxproj -> D:\Programs\GD-ENG2\GDENG2 Initial\x64\Debug\Project1.exe

@@ -1,0 +1,8 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (Project1.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Cube.cpp
+D:\Programs\GD-ENG2\GDENG2 Initial\Project2\Matrix4x4.h(106,44): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Programs\GD-ENG2\GDENG2 Initial\Project2\Matrix4x4.h(107,44): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Programs\GD-ENG2\GDENG2 Initial\Project2\Matrix4x4.h(108,44): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Programs\GD-ENG2\GDENG2 Initial\Project2\Matrix4x4.h(109,44): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Programs\GD-ENG2\GDENG2 Initial\Project2\Cube.cpp(33,163): warning C4267: 'argument': conversion from 'size_t' to 'UINT', possible loss of data
+  Project2.vcxproj -> D:\Programs\GD-ENG2\GDENG2 Initial\x64\Debug\Project2.exe
