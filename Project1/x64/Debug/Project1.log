@@ -1,2 +1,18 @@
 ﻿  AppWindow.cpp
-  Project1.vcxproj -> D:\Programs\GD-ENG2\GDENG2 Initial\x64\Debug\Project1.exe
+  ConstantBuffer.cpp
+  DeviceContext.cpp
+D:\Programs\GD-ENG2\GDENG2-Personal\Project1\DeviceContext.cpp(67,13): warning C4244: '=': conversion from 'UINT' to 'FLOAT', possible loss of data
+D:\Programs\GD-ENG2\GDENG2-Personal\Project1\DeviceContext.cpp(68,14): warning C4244: '=': conversion from 'UINT' to 'FLOAT', possible loss of data
+  GraphicsEngine.cpp
+  main.cpp
+  ObjLoader.cpp
+  PixelShader.cpp
+  Model.cpp
+D:\Programs\GD-ENG2\GDENG2-Personal\Project1\Model.cpp(37,38): warning C4267: '=': conversion from 'size_t' to 'UINT', possible loss of data
+D:\Programs\GD-ENG2\GDENG2-Personal\Project1\Model.cpp(48,87): warning C4267: 'argument': conversion from 'size_t' to 'UINT', possible loss of data
+  SwapChain.cpp
+  VertexBuffer.cpp
+  VertexShader.cpp
+  Window.cpp
+  Generating Code...
+  Project1.vcxproj -> D:\Programs\GD-ENG2\GDENG2-Personal\x64\Debug\Project1.exe

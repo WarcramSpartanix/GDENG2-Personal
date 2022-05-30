@@ -1,8 +1,702 @@
 ﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (Project1.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  AComponent.cpp
+  ActionHistory.cpp
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\Matrix4x4.h(106,44): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\Matrix4x4.h(107,44): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\Matrix4x4.h(108,44): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\Matrix4x4.h(109,44): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  AGameObject.cpp
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\Matrix4x4.h(106,44): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\Matrix4x4.h(107,44): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\Matrix4x4.h(108,44): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\Matrix4x4.h(109,44): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\AGameObject.cpp(184,44): warning C4390: ';': empty controlled statement found; is this the intent?
+  AppWindow.cpp
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\Window.h(2,1): warning C4005: 'NOMINMAX': macro redefinition
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\AppWindow.cpp : message : see previous definition of 'NOMINMAX'
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\Matrix4x4.h(106,44): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\Matrix4x4.h(107,44): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\Matrix4x4.h(108,44): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\Matrix4x4.h(109,44): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\extra\ReactPhysics3D\include\reactphysics3d\collision\CollisionCallback.h(300,73): warning C4267: 'return': conversion from 'size_t' to 'reactphysics3d::uint', possible loss of data
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\extra\ReactPhysics3D\include\reactphysics3d\collision\OverlapCallback.h(189,73): warning C4267: 'return': conversion from 'size_t' to 'reactphysics3d::uint', possible loss of data
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\extra\ReactPhysics3D\include\reactphysics3d\collision\OverlapCallback.h(207,123): warning C4267: 'argument': conversion from 'size_t' to 'const reactphysics3d::uint', possible loss of data
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\extra\ReactPhysics3D\include\reactphysics3d\collision\ContactManifold.h(37,26): warning C4099: 'reactphysics3d::ContactManifoldInfo': type name first seen using 'struct' now seen using 'class'
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\extra\ReactPhysics3D\include\reactphysics3d\collision\ContactManifoldInfo.h(42): message : see declaration of 'reactphysics3d::ContactManifoldInfo'
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\extra\ReactPhysics3D\include\reactphysics3d\collision\narrowphase\NarrowPhaseInfoBatch.h(38,26): warning C4099: 'reactphysics3d::ContactManifoldInfo': type name first seen using 'struct' now seen using 'class'
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\extra\ReactPhysics3D\include\reactphysics3d\collision\ContactManifold.h(37): message : see declaration of 'reactphysics3d::ContactManifoldInfo'
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\extra\ReactPhysics3D\include\reactphysics3d\collision\narrowphase\NarrowPhaseInfoBatch.h(129,37): warning C4267: 'return': conversion from 'size_t' to 'reactphysics3d::uint', possible loss of data
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\extra\ReactPhysics3D\include\reactphysics3d\collision\narrowphase\NarrowPhaseAlgorithm.h(36,26): warning C4099: 'reactphysics3d::ContactManifoldInfo': type name first seen using 'struct' now seen using 'class'
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\extra\ReactPhysics3D\include\reactphysics3d\collision\narrowphase\NarrowPhaseInfoBatch.h(38): message : see declaration of 'reactphysics3d::ContactManifoldInfo'
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\extra\ReactPhysics3D\include\reactphysics3d\engine\Islands.h(94,1): warning C4267: 'initializing': conversion from 'size_t' to 'reactphysics3d::uint32', possible loss of data
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\extra\ReactPhysics3D\include\reactphysics3d\utils\DebugRenderer.h(267,22): warning C4267: 'return': conversion from 'size_t' to 'reactphysics3d::uint32', possible loss of data
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\extra\ReactPhysics3D\include\reactphysics3d\utils\DebugRenderer.h(291,26): warning C4267: 'return': conversion from 'size_t' to 'reactphysics3d::uint32', possible loss of data
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\extra\ReactPhysics3D\include\reactphysics3d\engine\PhysicsWorld.h(710,34): warning C4267: 'return': conversion from 'size_t' to 'reactphysics3d::uint', possible loss of data
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\extra\ReactPhysics3D\include\reactphysics3d\engine\PhysicsWorld.h(718,30): warning C4267: 'return': conversion from 'size_t' to 'reactphysics3d::uint', possible loss of data
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\extra\ReactPhysics3D\include\reactphysics3d\collision\HalfEdgeStructure.h(135,32): warning C4267: 'return': conversion from 'size_t' to 'reactphysics3d::uint', possible loss of data
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\extra\ReactPhysics3D\include\reactphysics3d\collision\shapes\HeightFieldShape.h(197,104): warning C4244: 'return': conversion from 'double' to 'reactphysics3d::decimal', possible loss of data
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\extra\ReactPhysics3D\include\reactphysics3d\collision\shapes\HeightFieldShape.h(205,19): warning C4244: 'return': conversion from 'reactphysics3d::decimal' to 'int', possible loss of data
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\extra\ReactPhysics3D\include\reactphysics3d\collision\TriangleMesh.h(100,34): warning C4267: 'return': conversion from 'size_t' to 'reactphysics3d::uint', possible loss of data
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\AppWindow.cpp(62,46): warning C4244: '=': conversion from 'LONG' to 'float', possible loss of data
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\AppWindow.cpp(63,48): warning C4244: '=': conversion from 'LONG' to 'float', possible loss of data
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\AppWindow.cpp(105,14): warning C4244: 'initializing': conversion from 'LONG' to 'float', possible loss of data
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\AppWindow.cpp(106,15): warning C4244: 'initializing': conversion from 'LONG' to 'float', possible loss of data
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\AppWindow.cpp(107,104): warning C4244: 'argument': conversion from 'float' to 'UINT', possible loss of data
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\AppWindow.cpp(107,97): warning C4244: 'argument': conversion from 'float' to 'UINT', possible loss of data
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\AppWindow.cpp(136,57): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\AppWindow.cpp(136,50): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\extra\ReactPhysics3D\include\reactphysics3d\containers\Map.h(503,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\extra\ReactPhysics3D\include\reactphysics3d\containers\Map.h(435): message : while compiling class template member function 'void reactphysics3d::Map<int,reactphysics3d::Entity,std::hash<int>,std::equal_to<V>>::add(const reactphysics3d::Pair<K,reactphysics3d::Entity> &,bool)'
+          with
+          [
+              V=int,
+              K=int
+          ]
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\extra\ReactPhysics3D\include\reactphysics3d\systems\CollisionDetectionSystem.h(398): message : see reference to function template instantiation 'void reactphysics3d::Map<int,reactphysics3d::Entity,std::hash<int>,std::equal_to<V>>::add(const reactphysics3d::Pair<K,reactphysics3d::Entity> &,bool)' being compiled
+          with
+          [
+              V=int,
+              K=int
+          ]
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\extra\ReactPhysics3D\include\reactphysics3d\systems\CollisionDetectionSystem.h(102): message : see reference to class template instantiation 'reactphysics3d::Map<int,reactphysics3d::Entity,std::hash<int>,std::equal_to<V>>' being compiled
+          with
+          [
+              V=int
+          ]
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\extra\ReactPhysics3D\include\reactphysics3d\containers\Set.h(480,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\extra\ReactPhysics3D\include\reactphysics3d\containers\Set.h(425): message : while compiling class template member function 'bool reactphysics3d::Set<reactphysics3d::bodypair,std::hash<V>,std::equal_to<V>>::add(const V &)'
+          with
+          [
+              V=reactphysics3d::bodypair
+          ]
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\extra\ReactPhysics3D\include\reactphysics3d\systems\CollisionDetectionSystem.h(403): message : see reference to function template instantiation 'bool reactphysics3d::Set<reactphysics3d::bodypair,std::hash<V>,std::equal_to<V>>::add(const V &)' being compiled
+          with
+          [
+              V=reactphysics3d::bodypair
+          ]
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\extra\ReactPhysics3D\include\reactphysics3d\systems\CollisionDetectionSystem.h(93): message : see reference to class template instantiation 'reactphysics3d::Set<reactphysics3d::bodypair,std::hash<V>,std::equal_to<V>>' being compiled
+          with
+          [
+              V=reactphysics3d::bodypair
+          ]
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\extra\ReactPhysics3D\include\reactphysics3d\containers\List.h(331,1): warning C4267: 'argument': conversion from 'size_t' to 'reactphysics3d::uint', possible loss of data
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\extra\ReactPhysics3D\include\reactphysics3d\containers\List.h(329): message : while compiling class template member function 'reactphysics3d::List<reactphysics3d::Collider *>::Iterator reactphysics3d::List<reactphysics3d::Collider *>::remove(const reactphysics3d::List<reactphysics3d::Collider *>::Iterator &)'
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\extra\ReactPhysics3D\include\reactphysics3d\containers\List.h(324): message : see reference to function template instantiation 'reactphysics3d::List<reactphysics3d::Collider *>::Iterator reactphysics3d::List<reactphysics3d::Collider *>::remove(const reactphysics3d::List<reactphysics3d::Collider *>::Iterator &)' being compiled
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\extra\ReactPhysics3D\include\reactphysics3d\collision\shapes\CollisionShape.h(80): message : see reference to class template instantiation 'reactphysics3d::List<reactphysics3d::Collider *>' being compiled
+  AUIScreen.cpp
+  BaseComponentSystem.cpp
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\extra\ReactPhysics3D\include\reactphysics3d\collision\CollisionCallback.h(300,73): warning C4267: 'return': conversion from 'size_t' to 'reactphysics3d::uint', possible loss of data
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\extra\ReactPhysics3D\include\reactphysics3d\collision\OverlapCallback.h(189,73): warning C4267: 'return': conversion from 'size_t' to 'reactphysics3d::uint', possible loss of data
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\extra\ReactPhysics3D\include\reactphysics3d\collision\OverlapCallback.h(207,123): warning C4267: 'argument': conversion from 'size_t' to 'const reactphysics3d::uint', possible loss of data
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\extra\ReactPhysics3D\include\reactphysics3d\collision\ContactManifold.h(37,26): warning C4099: 'reactphysics3d::ContactManifoldInfo': type name first seen using 'struct' now seen using 'class'
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\extra\ReactPhysics3D\include\reactphysics3d\collision\ContactManifoldInfo.h(42): message : see declaration of 'reactphysics3d::ContactManifoldInfo'
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\extra\ReactPhysics3D\include\reactphysics3d\collision\narrowphase\NarrowPhaseInfoBatch.h(38,26): warning C4099: 'reactphysics3d::ContactManifoldInfo': type name first seen using 'struct' now seen using 'class'
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\extra\ReactPhysics3D\include\reactphysics3d\collision\ContactManifold.h(37): message : see declaration of 'reactphysics3d::ContactManifoldInfo'
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\extra\ReactPhysics3D\include\reactphysics3d\collision\narrowphase\NarrowPhaseInfoBatch.h(129,37): warning C4267: 'return': conversion from 'size_t' to 'reactphysics3d::uint', possible loss of data
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\extra\ReactPhysics3D\include\reactphysics3d\collision\narrowphase\NarrowPhaseAlgorithm.h(36,26): warning C4099: 'reactphysics3d::ContactManifoldInfo': type name first seen using 'struct' now seen using 'class'
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\extra\ReactPhysics3D\include\reactphysics3d\collision\narrowphase\NarrowPhaseInfoBatch.h(38): message : see declaration of 'reactphysics3d::ContactManifoldInfo'
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\extra\ReactPhysics3D\include\reactphysics3d\engine\Islands.h(94,1): warning C4267: 'initializing': conversion from 'size_t' to 'reactphysics3d::uint32', possible loss of data
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\extra\ReactPhysics3D\include\reactphysics3d\utils\DebugRenderer.h(267,22): warning C4267: 'return': conversion from 'size_t' to 'reactphysics3d::uint32', possible loss of data
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\extra\ReactPhysics3D\include\reactphysics3d\utils\DebugRenderer.h(291,26): warning C4267: 'return': conversion from 'size_t' to 'reactphysics3d::uint32', possible loss of data
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\extra\ReactPhysics3D\include\reactphysics3d\engine\PhysicsWorld.h(710,34): warning C4267: 'return': conversion from 'size_t' to 'reactphysics3d::uint', possible loss of data
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\extra\ReactPhysics3D\include\reactphysics3d\engine\PhysicsWorld.h(718,30): warning C4267: 'return': conversion from 'size_t' to 'reactphysics3d::uint', possible loss of data
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\extra\ReactPhysics3D\include\reactphysics3d\collision\HalfEdgeStructure.h(135,32): warning C4267: 'return': conversion from 'size_t' to 'reactphysics3d::uint', possible loss of data
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\extra\ReactPhysics3D\include\reactphysics3d\collision\shapes\HeightFieldShape.h(197,104): warning C4244: 'return': conversion from 'double' to 'reactphysics3d::decimal', possible loss of data
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\extra\ReactPhysics3D\include\reactphysics3d\collision\shapes\HeightFieldShape.h(205,19): warning C4244: 'return': conversion from 'reactphysics3d::decimal' to 'int', possible loss of data
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\extra\ReactPhysics3D\include\reactphysics3d\collision\TriangleMesh.h(100,34): warning C4267: 'return': conversion from 'size_t' to 'reactphysics3d::uint', possible loss of data
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\extra\ReactPhysics3D\include\reactphysics3d\containers\Map.h(503,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\extra\ReactPhysics3D\include\reactphysics3d\containers\Map.h(435): message : while compiling class template member function 'void reactphysics3d::Map<int,reactphysics3d::Entity,std::hash<int>,std::equal_to<V>>::add(const reactphysics3d::Pair<K,reactphysics3d::Entity> &,bool)'
+          with
+          [
+              V=int,
+              K=int
+          ]
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\extra\ReactPhysics3D\include\reactphysics3d\systems\CollisionDetectionSystem.h(398): message : see reference to function template instantiation 'void reactphysics3d::Map<int,reactphysics3d::Entity,std::hash<int>,std::equal_to<V>>::add(const reactphysics3d::Pair<K,reactphysics3d::Entity> &,bool)' being compiled
+          with
+          [
+              V=int,
+              K=int
+          ]
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\extra\ReactPhysics3D\include\reactphysics3d\systems\CollisionDetectionSystem.h(102): message : see reference to class template instantiation 'reactphysics3d::Map<int,reactphysics3d::Entity,std::hash<int>,std::equal_to<V>>' being compiled
+          with
+          [
+              V=int
+          ]
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\extra\ReactPhysics3D\include\reactphysics3d\containers\Set.h(480,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\extra\ReactPhysics3D\include\reactphysics3d\containers\Set.h(425): message : while compiling class template member function 'bool reactphysics3d::Set<reactphysics3d::bodypair,std::hash<V>,std::equal_to<V>>::add(const V &)'
+          with
+          [
+              V=reactphysics3d::bodypair
+          ]
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\extra\ReactPhysics3D\include\reactphysics3d\systems\CollisionDetectionSystem.h(403): message : see reference to function template instantiation 'bool reactphysics3d::Set<reactphysics3d::bodypair,std::hash<V>,std::equal_to<V>>::add(const V &)' being compiled
+          with
+          [
+              V=reactphysics3d::bodypair
+          ]
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\extra\ReactPhysics3D\include\reactphysics3d\systems\CollisionDetectionSystem.h(93): message : see reference to class template instantiation 'reactphysics3d::Set<reactphysics3d::bodypair,std::hash<V>,std::equal_to<V>>' being compiled
+          with
+          [
+              V=reactphysics3d::bodypair
+          ]
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\extra\ReactPhysics3D\include\reactphysics3d\containers\List.h(331,1): warning C4267: 'argument': conversion from 'size_t' to 'reactphysics3d::uint', possible loss of data
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\extra\ReactPhysics3D\include\reactphysics3d\containers\List.h(329): message : while compiling class template member function 'reactphysics3d::List<reactphysics3d::Collider *>::Iterator reactphysics3d::List<reactphysics3d::Collider *>::remove(const reactphysics3d::List<reactphysics3d::Collider *>::Iterator &)'
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\extra\ReactPhysics3D\include\reactphysics3d\containers\List.h(324): message : see reference to function template instantiation 'reactphysics3d::List<reactphysics3d::Collider *>::Iterator reactphysics3d::List<reactphysics3d::Collider *>::remove(const reactphysics3d::List<reactphysics3d::Collider *>::Iterator &)' being compiled
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\extra\ReactPhysics3D\include\reactphysics3d\collision\shapes\CollisionShape.h(80): message : see reference to class template instantiation 'reactphysics3d::List<reactphysics3d::Collider *>' being compiled
+  Camera.cpp
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\Matrix4x4.h(106,44): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\Matrix4x4.h(107,44): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\Matrix4x4.h(108,44): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\Matrix4x4.h(109,44): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\Camera.cpp(77,41): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\Camera.cpp(95,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\Camera.cpp(124,39): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\Camera.cpp(132,39): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\Camera.cpp(177,74): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\Camera.cpp(178,74): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  ColorPickerScreen.cpp
+  ConstantBuffer.cpp
+  CreditsScreen.cpp
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\CreditsScreen.cpp(21,56): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\CreditsScreen.cpp(21,42): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
   Cube.cpp
-D:\Programs\GD-ENG2\GDENG2 Initial\Project2\Matrix4x4.h(106,44): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-D:\Programs\GD-ENG2\GDENG2 Initial\Project2\Matrix4x4.h(107,44): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-D:\Programs\GD-ENG2\GDENG2 Initial\Project2\Matrix4x4.h(108,44): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-D:\Programs\GD-ENG2\GDENG2 Initial\Project2\Matrix4x4.h(109,44): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-D:\Programs\GD-ENG2\GDENG2 Initial\Project2\Cube.cpp(33,163): warning C4267: 'argument': conversion from 'size_t' to 'UINT', possible loss of data
-  Project2.vcxproj -> D:\Programs\GD-ENG2\GDENG2 Initial\x64\Debug\Project2.exe
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\Matrix4x4.h(106,44): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\Matrix4x4.h(107,44): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\Matrix4x4.h(108,44): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\Matrix4x4.h(109,44): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\Cube.cpp(33,163): warning C4267: 'argument': conversion from 'size_t' to 'UINT', possible loss of data
+  DeviceContext.cpp
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\DeviceContext.cpp(94,13): warning C4244: '=': conversion from 'UINT' to 'FLOAT', possible loss of data
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\DeviceContext.cpp(95,14): warning C4244: '=': conversion from 'UINT' to 'FLOAT', possible loss of data
+  EngineBackend.cpp
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\Matrix4x4.h(106,44): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\Matrix4x4.h(107,44): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\Matrix4x4.h(108,44): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\Matrix4x4.h(109,44): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  EngineTime.cpp
+  FileManager.cpp
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\Matrix4x4.h(106,44): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\Matrix4x4.h(107,44): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\Matrix4x4.h(108,44): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\Matrix4x4.h(109,44): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  GameObjectManager.cpp
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\Matrix4x4.h(106,44): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\Matrix4x4.h(107,44): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\Matrix4x4.h(108,44): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\Matrix4x4.h(109,44): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\extra\ReactPhysics3D\include\reactphysics3d\collision\CollisionCallback.h(300,73): warning C4267: 'return': conversion from 'size_t' to 'reactphysics3d::uint', possible loss of data
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\extra\ReactPhysics3D\include\reactphysics3d\collision\OverlapCallback.h(189,73): warning C4267: 'return': conversion from 'size_t' to 'reactphysics3d::uint', possible loss of data
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\extra\ReactPhysics3D\include\reactphysics3d\collision\OverlapCallback.h(207,123): warning C4267: 'argument': conversion from 'size_t' to 'const reactphysics3d::uint', possible loss of data
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\extra\ReactPhysics3D\include\reactphysics3d\collision\ContactManifold.h(37,26): warning C4099: 'reactphysics3d::ContactManifoldInfo': type name first seen using 'struct' now seen using 'class'
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\extra\ReactPhysics3D\include\reactphysics3d\collision\ContactManifoldInfo.h(42): message : see declaration of 'reactphysics3d::ContactManifoldInfo'
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\extra\ReactPhysics3D\include\reactphysics3d\collision\narrowphase\NarrowPhaseInfoBatch.h(38,26): warning C4099: 'reactphysics3d::ContactManifoldInfo': type name first seen using 'struct' now seen using 'class'
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\extra\ReactPhysics3D\include\reactphysics3d\collision\ContactManifold.h(37): message : see declaration of 'reactphysics3d::ContactManifoldInfo'
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\extra\ReactPhysics3D\include\reactphysics3d\collision\narrowphase\NarrowPhaseInfoBatch.h(129,37): warning C4267: 'return': conversion from 'size_t' to 'reactphysics3d::uint', possible loss of data
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\extra\ReactPhysics3D\include\reactphysics3d\collision\narrowphase\NarrowPhaseAlgorithm.h(36,26): warning C4099: 'reactphysics3d::ContactManifoldInfo': type name first seen using 'struct' now seen using 'class'
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\extra\ReactPhysics3D\include\reactphysics3d\collision\narrowphase\NarrowPhaseInfoBatch.h(38): message : see declaration of 'reactphysics3d::ContactManifoldInfo'
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\extra\ReactPhysics3D\include\reactphysics3d\engine\Islands.h(94,1): warning C4267: 'initializing': conversion from 'size_t' to 'reactphysics3d::uint32', possible loss of data
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\extra\ReactPhysics3D\include\reactphysics3d\utils\DebugRenderer.h(267,22): warning C4267: 'return': conversion from 'size_t' to 'reactphysics3d::uint32', possible loss of data
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\extra\ReactPhysics3D\include\reactphysics3d\utils\DebugRenderer.h(291,26): warning C4267: 'return': conversion from 'size_t' to 'reactphysics3d::uint32', possible loss of data
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\extra\ReactPhysics3D\include\reactphysics3d\engine\PhysicsWorld.h(710,34): warning C4267: 'return': conversion from 'size_t' to 'reactphysics3d::uint', possible loss of data
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\extra\ReactPhysics3D\include\reactphysics3d\engine\PhysicsWorld.h(718,30): warning C4267: 'return': conversion from 'size_t' to 'reactphysics3d::uint', possible loss of data
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\extra\ReactPhysics3D\include\reactphysics3d\collision\HalfEdgeStructure.h(135,32): warning C4267: 'return': conversion from 'size_t' to 'reactphysics3d::uint', possible loss of data
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\extra\ReactPhysics3D\include\reactphysics3d\collision\shapes\HeightFieldShape.h(197,104): warning C4244: 'return': conversion from 'double' to 'reactphysics3d::decimal', possible loss of data
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\extra\ReactPhysics3D\include\reactphysics3d\collision\shapes\HeightFieldShape.h(205,19): warning C4244: 'return': conversion from 'reactphysics3d::decimal' to 'int', possible loss of data
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\extra\ReactPhysics3D\include\reactphysics3d\collision\TriangleMesh.h(100,34): warning C4267: 'return': conversion from 'size_t' to 'reactphysics3d::uint', possible loss of data
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\GameObjectManager.cpp(50,2): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\GameObjectManager.cpp(62,56): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\extra\ReactPhysics3D\include\reactphysics3d\containers\Map.h(503,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\extra\ReactPhysics3D\include\reactphysics3d\containers\Map.h(435): message : while compiling class template member function 'void reactphysics3d::Map<int,reactphysics3d::Entity,std::hash<int>,std::equal_to<V>>::add(const reactphysics3d::Pair<K,reactphysics3d::Entity> &,bool)'
+          with
+          [
+              V=int,
+              K=int
+          ]
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\extra\ReactPhysics3D\include\reactphysics3d\systems\CollisionDetectionSystem.h(398): message : see reference to function template instantiation 'void reactphysics3d::Map<int,reactphysics3d::Entity,std::hash<int>,std::equal_to<V>>::add(const reactphysics3d::Pair<K,reactphysics3d::Entity> &,bool)' being compiled
+          with
+          [
+              V=int,
+              K=int
+          ]
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\extra\ReactPhysics3D\include\reactphysics3d\systems\CollisionDetectionSystem.h(102): message : see reference to class template instantiation 'reactphysics3d::Map<int,reactphysics3d::Entity,std::hash<int>,std::equal_to<V>>' being compiled
+          with
+          [
+              V=int
+          ]
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\extra\ReactPhysics3D\include\reactphysics3d\containers\Set.h(480,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\extra\ReactPhysics3D\include\reactphysics3d\containers\Set.h(425): message : while compiling class template member function 'bool reactphysics3d::Set<reactphysics3d::bodypair,std::hash<V>,std::equal_to<V>>::add(const V &)'
+          with
+          [
+              V=reactphysics3d::bodypair
+          ]
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\extra\ReactPhysics3D\include\reactphysics3d\systems\CollisionDetectionSystem.h(403): message : see reference to function template instantiation 'bool reactphysics3d::Set<reactphysics3d::bodypair,std::hash<V>,std::equal_to<V>>::add(const V &)' being compiled
+          with
+          [
+              V=reactphysics3d::bodypair
+          ]
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\extra\ReactPhysics3D\include\reactphysics3d\systems\CollisionDetectionSystem.h(93): message : see reference to class template instantiation 'reactphysics3d::Set<reactphysics3d::bodypair,std::hash<V>,std::equal_to<V>>' being compiled
+          with
+          [
+              V=reactphysics3d::bodypair
+          ]
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\extra\ReactPhysics3D\include\reactphysics3d\containers\List.h(331,1): warning C4267: 'argument': conversion from 'size_t' to 'reactphysics3d::uint', possible loss of data
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\extra\ReactPhysics3D\include\reactphysics3d\containers\List.h(329): message : while compiling class template member function 'reactphysics3d::List<reactphysics3d::Collider *>::Iterator reactphysics3d::List<reactphysics3d::Collider *>::remove(const reactphysics3d::List<reactphysics3d::Collider *>::Iterator &)'
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\extra\ReactPhysics3D\include\reactphysics3d\containers\List.h(324): message : see reference to function template instantiation 'reactphysics3d::List<reactphysics3d::Collider *>::Iterator reactphysics3d::List<reactphysics3d::Collider *>::remove(const reactphysics3d::List<reactphysics3d::Collider *>::Iterator &)' being compiled
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\extra\ReactPhysics3D\include\reactphysics3d\collision\shapes\CollisionShape.h(80): message : see reference to class template instantiation 'reactphysics3d::List<reactphysics3d::Collider *>' being compiled
+  GraphicsEngine.cpp
+  HierarchyScreen.cpp
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\Matrix4x4.h(106,44): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\Matrix4x4.h(107,44): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\Matrix4x4.h(108,44): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\Matrix4x4.h(109,44): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  imgui.cpp
+  imgui_demo.cpp
+  Generating Code...
+  Compiling...
+  imgui_draw.cpp
+  imgui_impl_dx11.cpp
+  imgui_impl_win32.cpp
+  imgui_widgets.cpp
+  IndexBuffer.cpp
+  InputSystem.cpp
+  InspectorScreen.cpp
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\Matrix4x4.h(106,44): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\Matrix4x4.h(107,44): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\Matrix4x4.h(108,44): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\Matrix4x4.h(109,44): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\extra\ReactPhysics3D\include\reactphysics3d\collision\CollisionCallback.h(300,73): warning C4267: 'return': conversion from 'size_t' to 'reactphysics3d::uint', possible loss of data
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\extra\ReactPhysics3D\include\reactphysics3d\collision\OverlapCallback.h(189,73): warning C4267: 'return': conversion from 'size_t' to 'reactphysics3d::uint', possible loss of data
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\extra\ReactPhysics3D\include\reactphysics3d\collision\OverlapCallback.h(207,123): warning C4267: 'argument': conversion from 'size_t' to 'const reactphysics3d::uint', possible loss of data
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\extra\ReactPhysics3D\include\reactphysics3d\collision\ContactManifold.h(37,26): warning C4099: 'reactphysics3d::ContactManifoldInfo': type name first seen using 'struct' now seen using 'class'
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\extra\ReactPhysics3D\include\reactphysics3d\collision\ContactManifoldInfo.h(42): message : see declaration of 'reactphysics3d::ContactManifoldInfo'
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\extra\ReactPhysics3D\include\reactphysics3d\collision\narrowphase\NarrowPhaseInfoBatch.h(38,26): warning C4099: 'reactphysics3d::ContactManifoldInfo': type name first seen using 'struct' now seen using 'class'
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\extra\ReactPhysics3D\include\reactphysics3d\collision\ContactManifold.h(37): message : see declaration of 'reactphysics3d::ContactManifoldInfo'
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\extra\ReactPhysics3D\include\reactphysics3d\collision\narrowphase\NarrowPhaseInfoBatch.h(129,37): warning C4267: 'return': conversion from 'size_t' to 'reactphysics3d::uint', possible loss of data
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\extra\ReactPhysics3D\include\reactphysics3d\collision\narrowphase\NarrowPhaseAlgorithm.h(36,26): warning C4099: 'reactphysics3d::ContactManifoldInfo': type name first seen using 'struct' now seen using 'class'
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\extra\ReactPhysics3D\include\reactphysics3d\collision\narrowphase\NarrowPhaseInfoBatch.h(38): message : see declaration of 'reactphysics3d::ContactManifoldInfo'
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\extra\ReactPhysics3D\include\reactphysics3d\engine\Islands.h(94,1): warning C4267: 'initializing': conversion from 'size_t' to 'reactphysics3d::uint32', possible loss of data
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\extra\ReactPhysics3D\include\reactphysics3d\utils\DebugRenderer.h(267,22): warning C4267: 'return': conversion from 'size_t' to 'reactphysics3d::uint32', possible loss of data
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\extra\ReactPhysics3D\include\reactphysics3d\utils\DebugRenderer.h(291,26): warning C4267: 'return': conversion from 'size_t' to 'reactphysics3d::uint32', possible loss of data
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\extra\ReactPhysics3D\include\reactphysics3d\engine\PhysicsWorld.h(710,34): warning C4267: 'return': conversion from 'size_t' to 'reactphysics3d::uint', possible loss of data
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\extra\ReactPhysics3D\include\reactphysics3d\engine\PhysicsWorld.h(718,30): warning C4267: 'return': conversion from 'size_t' to 'reactphysics3d::uint', possible loss of data
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\extra\ReactPhysics3D\include\reactphysics3d\collision\HalfEdgeStructure.h(135,32): warning C4267: 'return': conversion from 'size_t' to 'reactphysics3d::uint', possible loss of data
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\extra\ReactPhysics3D\include\reactphysics3d\collision\shapes\HeightFieldShape.h(197,104): warning C4244: 'return': conversion from 'double' to 'reactphysics3d::decimal', possible loss of data
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\extra\ReactPhysics3D\include\reactphysics3d\collision\shapes\HeightFieldShape.h(205,19): warning C4244: 'return': conversion from 'reactphysics3d::decimal' to 'int', possible loss of data
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\extra\ReactPhysics3D\include\reactphysics3d\collision\TriangleMesh.h(100,34): warning C4267: 'return': conversion from 'size_t' to 'reactphysics3d::uint', possible loss of data
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\extra\ReactPhysics3D\include\reactphysics3d\containers\Map.h(503,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\extra\ReactPhysics3D\include\reactphysics3d\containers\Map.h(435): message : while compiling class template member function 'void reactphysics3d::Map<int,reactphysics3d::Entity,std::hash<int>,std::equal_to<V>>::add(const reactphysics3d::Pair<K,reactphysics3d::Entity> &,bool)'
+          with
+          [
+              V=int,
+              K=int
+          ]
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\extra\ReactPhysics3D\include\reactphysics3d\systems\CollisionDetectionSystem.h(398): message : see reference to function template instantiation 'void reactphysics3d::Map<int,reactphysics3d::Entity,std::hash<int>,std::equal_to<V>>::add(const reactphysics3d::Pair<K,reactphysics3d::Entity> &,bool)' being compiled
+          with
+          [
+              V=int,
+              K=int
+          ]
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\extra\ReactPhysics3D\include\reactphysics3d\systems\CollisionDetectionSystem.h(102): message : see reference to class template instantiation 'reactphysics3d::Map<int,reactphysics3d::Entity,std::hash<int>,std::equal_to<V>>' being compiled
+          with
+          [
+              V=int
+          ]
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\extra\ReactPhysics3D\include\reactphysics3d\containers\Set.h(480,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\extra\ReactPhysics3D\include\reactphysics3d\containers\Set.h(425): message : while compiling class template member function 'bool reactphysics3d::Set<reactphysics3d::bodypair,std::hash<V>,std::equal_to<V>>::add(const V &)'
+          with
+          [
+              V=reactphysics3d::bodypair
+          ]
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\extra\ReactPhysics3D\include\reactphysics3d\systems\CollisionDetectionSystem.h(403): message : see reference to function template instantiation 'bool reactphysics3d::Set<reactphysics3d::bodypair,std::hash<V>,std::equal_to<V>>::add(const V &)' being compiled
+          with
+          [
+              V=reactphysics3d::bodypair
+          ]
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\extra\ReactPhysics3D\include\reactphysics3d\systems\CollisionDetectionSystem.h(93): message : see reference to class template instantiation 'reactphysics3d::Set<reactphysics3d::bodypair,std::hash<V>,std::equal_to<V>>' being compiled
+          with
+          [
+              V=reactphysics3d::bodypair
+          ]
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\extra\ReactPhysics3D\include\reactphysics3d\containers\List.h(331,1): warning C4267: 'argument': conversion from 'size_t' to 'reactphysics3d::uint', possible loss of data
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\extra\ReactPhysics3D\include\reactphysics3d\containers\List.h(329): message : while compiling class template member function 'reactphysics3d::List<reactphysics3d::Collider *>::Iterator reactphysics3d::List<reactphysics3d::Collider *>::remove(const reactphysics3d::List<reactphysics3d::Collider *>::Iterator &)'
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\extra\ReactPhysics3D\include\reactphysics3d\containers\List.h(324): message : see reference to function template instantiation 'reactphysics3d::List<reactphysics3d::Collider *>::Iterator reactphysics3d::List<reactphysics3d::Collider *>::remove(const reactphysics3d::List<reactphysics3d::Collider *>::Iterator &)' being compiled
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\extra\ReactPhysics3D\include\reactphysics3d\collision\shapes\CollisionShape.h(80): message : see reference to class template instantiation 'reactphysics3d::List<reactphysics3d::Collider *>' being compiled
+  main.cpp
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\Window.h(2,1): warning C4005: 'NOMINMAX': macro redefinition
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\main.cpp : message : see previous definition of 'NOMINMAX'
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\Matrix4x4.h(106,44): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\Matrix4x4.h(107,44): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\Matrix4x4.h(108,44): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\Matrix4x4.h(109,44): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  MenuScreen.cpp
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\Matrix4x4.h(106,44): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\Matrix4x4.h(107,44): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\Matrix4x4.h(108,44): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\Matrix4x4.h(109,44): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\extra\ReactPhysics3D\include\reactphysics3d\collision\CollisionCallback.h(300,73): warning C4267: 'return': conversion from 'size_t' to 'reactphysics3d::uint', possible loss of data
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\extra\ReactPhysics3D\include\reactphysics3d\collision\OverlapCallback.h(189,73): warning C4267: 'return': conversion from 'size_t' to 'reactphysics3d::uint', possible loss of data
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\extra\ReactPhysics3D\include\reactphysics3d\collision\OverlapCallback.h(207,123): warning C4267: 'argument': conversion from 'size_t' to 'const reactphysics3d::uint', possible loss of data
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\extra\ReactPhysics3D\include\reactphysics3d\collision\ContactManifold.h(37,26): warning C4099: 'reactphysics3d::ContactManifoldInfo': type name first seen using 'struct' now seen using 'class'
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\extra\ReactPhysics3D\include\reactphysics3d\collision\ContactManifoldInfo.h(42): message : see declaration of 'reactphysics3d::ContactManifoldInfo'
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\extra\ReactPhysics3D\include\reactphysics3d\collision\narrowphase\NarrowPhaseInfoBatch.h(38,26): warning C4099: 'reactphysics3d::ContactManifoldInfo': type name first seen using 'struct' now seen using 'class'
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\extra\ReactPhysics3D\include\reactphysics3d\collision\ContactManifold.h(37): message : see declaration of 'reactphysics3d::ContactManifoldInfo'
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\extra\ReactPhysics3D\include\reactphysics3d\collision\narrowphase\NarrowPhaseInfoBatch.h(129,37): warning C4267: 'return': conversion from 'size_t' to 'reactphysics3d::uint', possible loss of data
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\extra\ReactPhysics3D\include\reactphysics3d\collision\narrowphase\NarrowPhaseAlgorithm.h(36,26): warning C4099: 'reactphysics3d::ContactManifoldInfo': type name first seen using 'struct' now seen using 'class'
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\extra\ReactPhysics3D\include\reactphysics3d\collision\narrowphase\NarrowPhaseInfoBatch.h(38): message : see declaration of 'reactphysics3d::ContactManifoldInfo'
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\extra\ReactPhysics3D\include\reactphysics3d\engine\Islands.h(94,1): warning C4267: 'initializing': conversion from 'size_t' to 'reactphysics3d::uint32', possible loss of data
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\extra\ReactPhysics3D\include\reactphysics3d\utils\DebugRenderer.h(267,22): warning C4267: 'return': conversion from 'size_t' to 'reactphysics3d::uint32', possible loss of data
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\extra\ReactPhysics3D\include\reactphysics3d\utils\DebugRenderer.h(291,26): warning C4267: 'return': conversion from 'size_t' to 'reactphysics3d::uint32', possible loss of data
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\extra\ReactPhysics3D\include\reactphysics3d\engine\PhysicsWorld.h(710,34): warning C4267: 'return': conversion from 'size_t' to 'reactphysics3d::uint', possible loss of data
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\extra\ReactPhysics3D\include\reactphysics3d\engine\PhysicsWorld.h(718,30): warning C4267: 'return': conversion from 'size_t' to 'reactphysics3d::uint', possible loss of data
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\extra\ReactPhysics3D\include\reactphysics3d\collision\HalfEdgeStructure.h(135,32): warning C4267: 'return': conversion from 'size_t' to 'reactphysics3d::uint', possible loss of data
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\extra\ReactPhysics3D\include\reactphysics3d\collision\shapes\HeightFieldShape.h(197,104): warning C4244: 'return': conversion from 'double' to 'reactphysics3d::decimal', possible loss of data
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\extra\ReactPhysics3D\include\reactphysics3d\collision\shapes\HeightFieldShape.h(205,19): warning C4244: 'return': conversion from 'reactphysics3d::decimal' to 'int', possible loss of data
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\extra\ReactPhysics3D\include\reactphysics3d\collision\TriangleMesh.h(100,34): warning C4267: 'return': conversion from 'size_t' to 'reactphysics3d::uint', possible loss of data
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\MenuScreen.cpp(112,16): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\MenuScreen.cpp(115,73): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\MenuScreen.cpp(115,57): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\MenuScreen.cpp(115,45): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\extra\ReactPhysics3D\include\reactphysics3d\containers\Map.h(503,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\extra\ReactPhysics3D\include\reactphysics3d\containers\Map.h(435): message : while compiling class template member function 'void reactphysics3d::Map<int,reactphysics3d::Entity,std::hash<int>,std::equal_to<V>>::add(const reactphysics3d::Pair<K,reactphysics3d::Entity> &,bool)'
+          with
+          [
+              V=int,
+              K=int
+          ]
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\extra\ReactPhysics3D\include\reactphysics3d\systems\CollisionDetectionSystem.h(398): message : see reference to function template instantiation 'void reactphysics3d::Map<int,reactphysics3d::Entity,std::hash<int>,std::equal_to<V>>::add(const reactphysics3d::Pair<K,reactphysics3d::Entity> &,bool)' being compiled
+          with
+          [
+              V=int,
+              K=int
+          ]
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\extra\ReactPhysics3D\include\reactphysics3d\systems\CollisionDetectionSystem.h(102): message : see reference to class template instantiation 'reactphysics3d::Map<int,reactphysics3d::Entity,std::hash<int>,std::equal_to<V>>' being compiled
+          with
+          [
+              V=int
+          ]
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\extra\ReactPhysics3D\include\reactphysics3d\containers\Set.h(480,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\extra\ReactPhysics3D\include\reactphysics3d\containers\Set.h(425): message : while compiling class template member function 'bool reactphysics3d::Set<reactphysics3d::bodypair,std::hash<V>,std::equal_to<V>>::add(const V &)'
+          with
+          [
+              V=reactphysics3d::bodypair
+          ]
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\extra\ReactPhysics3D\include\reactphysics3d\systems\CollisionDetectionSystem.h(403): message : see reference to function template instantiation 'bool reactphysics3d::Set<reactphysics3d::bodypair,std::hash<V>,std::equal_to<V>>::add(const V &)' being compiled
+          with
+          [
+              V=reactphysics3d::bodypair
+          ]
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\extra\ReactPhysics3D\include\reactphysics3d\systems\CollisionDetectionSystem.h(93): message : see reference to class template instantiation 'reactphysics3d::Set<reactphysics3d::bodypair,std::hash<V>,std::equal_to<V>>' being compiled
+          with
+          [
+              V=reactphysics3d::bodypair
+          ]
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\extra\ReactPhysics3D\include\reactphysics3d\containers\List.h(331,1): warning C4267: 'argument': conversion from 'size_t' to 'reactphysics3d::uint', possible loss of data
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\extra\ReactPhysics3D\include\reactphysics3d\containers\List.h(329): message : while compiling class template member function 'reactphysics3d::List<reactphysics3d::Collider *>::Iterator reactphysics3d::List<reactphysics3d::Collider *>::remove(const reactphysics3d::List<reactphysics3d::Collider *>::Iterator &)'
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\extra\ReactPhysics3D\include\reactphysics3d\containers\List.h(324): message : see reference to function template instantiation 'reactphysics3d::List<reactphysics3d::Collider *>::Iterator reactphysics3d::List<reactphysics3d::Collider *>::remove(const reactphysics3d::List<reactphysics3d::Collider *>::Iterator &)' being compiled
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\extra\ReactPhysics3D\include\reactphysics3d\collision\shapes\CollisionShape.h(80): message : see reference to class template instantiation 'reactphysics3d::List<reactphysics3d::Collider *>' being compiled
+  Mesh.cpp
+  MeshManager.cpp
+  MeshObject.cpp
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\Matrix4x4.h(106,44): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\Matrix4x4.h(107,44): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\Matrix4x4.h(108,44): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\Matrix4x4.h(109,44): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\MeshObject.cpp(21,201): warning C4267: 'argument': conversion from 'size_t' to 'UINT', possible loss of data
+  ObjectState.cpp
+  PhysicsComponent.cpp
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\extra\ReactPhysics3D\include\reactphysics3d\collision\CollisionCallback.h(300,73): warning C4267: 'return': conversion from 'size_t' to 'reactphysics3d::uint', possible loss of data
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\extra\ReactPhysics3D\include\reactphysics3d\collision\OverlapCallback.h(189,73): warning C4267: 'return': conversion from 'size_t' to 'reactphysics3d::uint', possible loss of data
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\extra\ReactPhysics3D\include\reactphysics3d\collision\OverlapCallback.h(207,123): warning C4267: 'argument': conversion from 'size_t' to 'const reactphysics3d::uint', possible loss of data
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\extra\ReactPhysics3D\include\reactphysics3d\collision\ContactManifold.h(37,26): warning C4099: 'reactphysics3d::ContactManifoldInfo': type name first seen using 'struct' now seen using 'class'
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\extra\ReactPhysics3D\include\reactphysics3d\collision\ContactManifoldInfo.h(42): message : see declaration of 'reactphysics3d::ContactManifoldInfo'
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\extra\ReactPhysics3D\include\reactphysics3d\collision\narrowphase\NarrowPhaseInfoBatch.h(38,26): warning C4099: 'reactphysics3d::ContactManifoldInfo': type name first seen using 'struct' now seen using 'class'
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\extra\ReactPhysics3D\include\reactphysics3d\collision\ContactManifold.h(37): message : see declaration of 'reactphysics3d::ContactManifoldInfo'
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\extra\ReactPhysics3D\include\reactphysics3d\collision\narrowphase\NarrowPhaseInfoBatch.h(129,37): warning C4267: 'return': conversion from 'size_t' to 'reactphysics3d::uint', possible loss of data
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\extra\ReactPhysics3D\include\reactphysics3d\collision\narrowphase\NarrowPhaseAlgorithm.h(36,26): warning C4099: 'reactphysics3d::ContactManifoldInfo': type name first seen using 'struct' now seen using 'class'
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\extra\ReactPhysics3D\include\reactphysics3d\collision\narrowphase\NarrowPhaseInfoBatch.h(38): message : see declaration of 'reactphysics3d::ContactManifoldInfo'
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\extra\ReactPhysics3D\include\reactphysics3d\engine\Islands.h(94,1): warning C4267: 'initializing': conversion from 'size_t' to 'reactphysics3d::uint32', possible loss of data
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\extra\ReactPhysics3D\include\reactphysics3d\utils\DebugRenderer.h(267,22): warning C4267: 'return': conversion from 'size_t' to 'reactphysics3d::uint32', possible loss of data
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\extra\ReactPhysics3D\include\reactphysics3d\utils\DebugRenderer.h(291,26): warning C4267: 'return': conversion from 'size_t' to 'reactphysics3d::uint32', possible loss of data
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\extra\ReactPhysics3D\include\reactphysics3d\engine\PhysicsWorld.h(710,34): warning C4267: 'return': conversion from 'size_t' to 'reactphysics3d::uint', possible loss of data
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\extra\ReactPhysics3D\include\reactphysics3d\engine\PhysicsWorld.h(718,30): warning C4267: 'return': conversion from 'size_t' to 'reactphysics3d::uint', possible loss of data
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\extra\ReactPhysics3D\include\reactphysics3d\collision\HalfEdgeStructure.h(135,32): warning C4267: 'return': conversion from 'size_t' to 'reactphysics3d::uint', possible loss of data
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\extra\ReactPhysics3D\include\reactphysics3d\collision\shapes\HeightFieldShape.h(197,104): warning C4244: 'return': conversion from 'double' to 'reactphysics3d::decimal', possible loss of data
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\extra\ReactPhysics3D\include\reactphysics3d\collision\shapes\HeightFieldShape.h(205,19): warning C4244: 'return': conversion from 'reactphysics3d::decimal' to 'int', possible loss of data
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\extra\ReactPhysics3D\include\reactphysics3d\collision\TriangleMesh.h(100,34): warning C4267: 'return': conversion from 'size_t' to 'reactphysics3d::uint', possible loss of data
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\Matrix4x4.h(106,44): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\Matrix4x4.h(107,44): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\Matrix4x4.h(108,44): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\Matrix4x4.h(109,44): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\extra\ReactPhysics3D\include\reactphysics3d\containers\Map.h(503,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\extra\ReactPhysics3D\include\reactphysics3d\containers\Map.h(435): message : while compiling class template member function 'void reactphysics3d::Map<int,reactphysics3d::Entity,std::hash<int>,std::equal_to<V>>::add(const reactphysics3d::Pair<K,reactphysics3d::Entity> &,bool)'
+          with
+          [
+              V=int,
+              K=int
+          ]
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\extra\ReactPhysics3D\include\reactphysics3d\systems\CollisionDetectionSystem.h(398): message : see reference to function template instantiation 'void reactphysics3d::Map<int,reactphysics3d::Entity,std::hash<int>,std::equal_to<V>>::add(const reactphysics3d::Pair<K,reactphysics3d::Entity> &,bool)' being compiled
+          with
+          [
+              V=int,
+              K=int
+          ]
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\extra\ReactPhysics3D\include\reactphysics3d\systems\CollisionDetectionSystem.h(102): message : see reference to class template instantiation 'reactphysics3d::Map<int,reactphysics3d::Entity,std::hash<int>,std::equal_to<V>>' being compiled
+          with
+          [
+              V=int
+          ]
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\extra\ReactPhysics3D\include\reactphysics3d\containers\Set.h(480,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\extra\ReactPhysics3D\include\reactphysics3d\containers\Set.h(425): message : while compiling class template member function 'bool reactphysics3d::Set<reactphysics3d::bodypair,std::hash<V>,std::equal_to<V>>::add(const V &)'
+          with
+          [
+              V=reactphysics3d::bodypair
+          ]
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\extra\ReactPhysics3D\include\reactphysics3d\systems\CollisionDetectionSystem.h(403): message : see reference to function template instantiation 'bool reactphysics3d::Set<reactphysics3d::bodypair,std::hash<V>,std::equal_to<V>>::add(const V &)' being compiled
+          with
+          [
+              V=reactphysics3d::bodypair
+          ]
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\extra\ReactPhysics3D\include\reactphysics3d\systems\CollisionDetectionSystem.h(93): message : see reference to class template instantiation 'reactphysics3d::Set<reactphysics3d::bodypair,std::hash<V>,std::equal_to<V>>' being compiled
+          with
+          [
+              V=reactphysics3d::bodypair
+          ]
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\extra\ReactPhysics3D\include\reactphysics3d\containers\List.h(331,1): warning C4267: 'argument': conversion from 'size_t' to 'reactphysics3d::uint', possible loss of data
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\extra\ReactPhysics3D\include\reactphysics3d\containers\List.h(329): message : while compiling class template member function 'reactphysics3d::List<reactphysics3d::Collider *>::Iterator reactphysics3d::List<reactphysics3d::Collider *>::remove(const reactphysics3d::List<reactphysics3d::Collider *>::Iterator &)'
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\extra\ReactPhysics3D\include\reactphysics3d\containers\List.h(324): message : see reference to function template instantiation 'reactphysics3d::List<reactphysics3d::Collider *>::Iterator reactphysics3d::List<reactphysics3d::Collider *>::remove(const reactphysics3d::List<reactphysics3d::Collider *>::Iterator &)' being compiled
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\extra\ReactPhysics3D\include\reactphysics3d\collision\shapes\CollisionShape.h(80): message : see reference to class template instantiation 'reactphysics3d::List<reactphysics3d::Collider *>' being compiled
+  PhysicsSystem.cpp
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\extra\ReactPhysics3D\include\reactphysics3d\collision\CollisionCallback.h(300,73): warning C4267: 'return': conversion from 'size_t' to 'reactphysics3d::uint', possible loss of data
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\extra\ReactPhysics3D\include\reactphysics3d\collision\OverlapCallback.h(189,73): warning C4267: 'return': conversion from 'size_t' to 'reactphysics3d::uint', possible loss of data
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\extra\ReactPhysics3D\include\reactphysics3d\collision\OverlapCallback.h(207,123): warning C4267: 'argument': conversion from 'size_t' to 'const reactphysics3d::uint', possible loss of data
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\extra\ReactPhysics3D\include\reactphysics3d\collision\ContactManifold.h(37,26): warning C4099: 'reactphysics3d::ContactManifoldInfo': type name first seen using 'struct' now seen using 'class'
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\extra\ReactPhysics3D\include\reactphysics3d\collision\ContactManifoldInfo.h(42): message : see declaration of 'reactphysics3d::ContactManifoldInfo'
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\extra\ReactPhysics3D\include\reactphysics3d\collision\narrowphase\NarrowPhaseInfoBatch.h(38,26): warning C4099: 'reactphysics3d::ContactManifoldInfo': type name first seen using 'struct' now seen using 'class'
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\extra\ReactPhysics3D\include\reactphysics3d\collision\ContactManifold.h(37): message : see declaration of 'reactphysics3d::ContactManifoldInfo'
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\extra\ReactPhysics3D\include\reactphysics3d\collision\narrowphase\NarrowPhaseInfoBatch.h(129,37): warning C4267: 'return': conversion from 'size_t' to 'reactphysics3d::uint', possible loss of data
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\extra\ReactPhysics3D\include\reactphysics3d\collision\narrowphase\NarrowPhaseAlgorithm.h(36,26): warning C4099: 'reactphysics3d::ContactManifoldInfo': type name first seen using 'struct' now seen using 'class'
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\extra\ReactPhysics3D\include\reactphysics3d\collision\narrowphase\NarrowPhaseInfoBatch.h(38): message : see declaration of 'reactphysics3d::ContactManifoldInfo'
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\extra\ReactPhysics3D\include\reactphysics3d\engine\Islands.h(94,1): warning C4267: 'initializing': conversion from 'size_t' to 'reactphysics3d::uint32', possible loss of data
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\extra\ReactPhysics3D\include\reactphysics3d\utils\DebugRenderer.h(267,22): warning C4267: 'return': conversion from 'size_t' to 'reactphysics3d::uint32', possible loss of data
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\extra\ReactPhysics3D\include\reactphysics3d\utils\DebugRenderer.h(291,26): warning C4267: 'return': conversion from 'size_t' to 'reactphysics3d::uint32', possible loss of data
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\extra\ReactPhysics3D\include\reactphysics3d\engine\PhysicsWorld.h(710,34): warning C4267: 'return': conversion from 'size_t' to 'reactphysics3d::uint', possible loss of data
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\extra\ReactPhysics3D\include\reactphysics3d\engine\PhysicsWorld.h(718,30): warning C4267: 'return': conversion from 'size_t' to 'reactphysics3d::uint', possible loss of data
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\extra\ReactPhysics3D\include\reactphysics3d\collision\HalfEdgeStructure.h(135,32): warning C4267: 'return': conversion from 'size_t' to 'reactphysics3d::uint', possible loss of data
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\extra\ReactPhysics3D\include\reactphysics3d\collision\shapes\HeightFieldShape.h(197,104): warning C4244: 'return': conversion from 'double' to 'reactphysics3d::decimal', possible loss of data
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\extra\ReactPhysics3D\include\reactphysics3d\collision\shapes\HeightFieldShape.h(205,19): warning C4244: 'return': conversion from 'reactphysics3d::decimal' to 'int', possible loss of data
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\extra\ReactPhysics3D\include\reactphysics3d\collision\TriangleMesh.h(100,34): warning C4267: 'return': conversion from 'size_t' to 'reactphysics3d::uint', possible loss of data
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\PhysicsSystem.cpp(10,44): warning C4305: 'argument': truncation from 'double' to 'reactphysics3d::decimal'
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\PhysicsSystem.cpp(32,53): warning C4390: ';': empty controlled statement found; is this the intent?
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\PhysicsSystem.cpp(66,56): warning C4244: 'argument': conversion from 'double' to 'reactphysics3d::decimal', possible loss of data
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\PhysicsSystem.cpp(70,61): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\extra\ReactPhysics3D\include\reactphysics3d\containers\Map.h(503,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\extra\ReactPhysics3D\include\reactphysics3d\containers\Map.h(435): message : while compiling class template member function 'void reactphysics3d::Map<int,reactphysics3d::Entity,std::hash<int>,std::equal_to<V>>::add(const reactphysics3d::Pair<K,reactphysics3d::Entity> &,bool)'
+          with
+          [
+              V=int,
+              K=int
+          ]
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\extra\ReactPhysics3D\include\reactphysics3d\systems\CollisionDetectionSystem.h(398): message : see reference to function template instantiation 'void reactphysics3d::Map<int,reactphysics3d::Entity,std::hash<int>,std::equal_to<V>>::add(const reactphysics3d::Pair<K,reactphysics3d::Entity> &,bool)' being compiled
+          with
+          [
+              V=int,
+              K=int
+          ]
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\extra\ReactPhysics3D\include\reactphysics3d\systems\CollisionDetectionSystem.h(102): message : see reference to class template instantiation 'reactphysics3d::Map<int,reactphysics3d::Entity,std::hash<int>,std::equal_to<V>>' being compiled
+          with
+          [
+              V=int
+          ]
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\extra\ReactPhysics3D\include\reactphysics3d\containers\Set.h(480,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\extra\ReactPhysics3D\include\reactphysics3d\containers\Set.h(425): message : while compiling class template member function 'bool reactphysics3d::Set<reactphysics3d::bodypair,std::hash<V>,std::equal_to<V>>::add(const V &)'
+          with
+          [
+              V=reactphysics3d::bodypair
+          ]
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\extra\ReactPhysics3D\include\reactphysics3d\systems\CollisionDetectionSystem.h(403): message : see reference to function template instantiation 'bool reactphysics3d::Set<reactphysics3d::bodypair,std::hash<V>,std::equal_to<V>>::add(const V &)' being compiled
+          with
+          [
+              V=reactphysics3d::bodypair
+          ]
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\extra\ReactPhysics3D\include\reactphysics3d\systems\CollisionDetectionSystem.h(93): message : see reference to class template instantiation 'reactphysics3d::Set<reactphysics3d::bodypair,std::hash<V>,std::equal_to<V>>' being compiled
+          with
+          [
+              V=reactphysics3d::bodypair
+          ]
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\extra\ReactPhysics3D\include\reactphysics3d\containers\List.h(331,1): warning C4267: 'argument': conversion from 'size_t' to 'reactphysics3d::uint', possible loss of data
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\extra\ReactPhysics3D\include\reactphysics3d\containers\List.h(329): message : while compiling class template member function 'reactphysics3d::List<reactphysics3d::Collider *>::Iterator reactphysics3d::List<reactphysics3d::Collider *>::remove(const reactphysics3d::List<reactphysics3d::Collider *>::Iterator &)'
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\extra\ReactPhysics3D\include\reactphysics3d\containers\List.h(324): message : see reference to function template instantiation 'reactphysics3d::List<reactphysics3d::Collider *>::Iterator reactphysics3d::List<reactphysics3d::Collider *>::remove(const reactphysics3d::List<reactphysics3d::Collider *>::Iterator &)' being compiled
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\extra\ReactPhysics3D\include\reactphysics3d\collision\shapes\CollisionShape.h(80): message : see reference to class template instantiation 'reactphysics3d::List<reactphysics3d::Collider *>' being compiled
+  PixelShader.cpp
+  Plane.cpp
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\Matrix4x4.h(106,44): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\Matrix4x4.h(107,44): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\Matrix4x4.h(108,44): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\Matrix4x4.h(109,44): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\Plane.cpp(29,163): warning C4267: 'argument': conversion from 'size_t' to 'UINT', possible loss of data
+  RenderSystem.cpp
+  Resource.cpp
+  ResourceManager.cpp
+  Generating Code...
+  Compiling...
+  RigidCube.cpp
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\Matrix4x4.h(106,44): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\Matrix4x4.h(107,44): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\Matrix4x4.h(108,44): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\Matrix4x4.h(109,44): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\extra\ReactPhysics3D\include\reactphysics3d\collision\CollisionCallback.h(300,73): warning C4267: 'return': conversion from 'size_t' to 'reactphysics3d::uint', possible loss of data
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\extra\ReactPhysics3D\include\reactphysics3d\collision\OverlapCallback.h(189,73): warning C4267: 'return': conversion from 'size_t' to 'reactphysics3d::uint', possible loss of data
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\extra\ReactPhysics3D\include\reactphysics3d\collision\OverlapCallback.h(207,123): warning C4267: 'argument': conversion from 'size_t' to 'const reactphysics3d::uint', possible loss of data
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\extra\ReactPhysics3D\include\reactphysics3d\collision\ContactManifold.h(37,26): warning C4099: 'reactphysics3d::ContactManifoldInfo': type name first seen using 'struct' now seen using 'class'
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\extra\ReactPhysics3D\include\reactphysics3d\collision\ContactManifoldInfo.h(42): message : see declaration of 'reactphysics3d::ContactManifoldInfo'
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\extra\ReactPhysics3D\include\reactphysics3d\collision\narrowphase\NarrowPhaseInfoBatch.h(38,26): warning C4099: 'reactphysics3d::ContactManifoldInfo': type name first seen using 'struct' now seen using 'class'
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\extra\ReactPhysics3D\include\reactphysics3d\collision\ContactManifold.h(37): message : see declaration of 'reactphysics3d::ContactManifoldInfo'
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\extra\ReactPhysics3D\include\reactphysics3d\collision\narrowphase\NarrowPhaseInfoBatch.h(129,37): warning C4267: 'return': conversion from 'size_t' to 'reactphysics3d::uint', possible loss of data
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\extra\ReactPhysics3D\include\reactphysics3d\collision\narrowphase\NarrowPhaseAlgorithm.h(36,26): warning C4099: 'reactphysics3d::ContactManifoldInfo': type name first seen using 'struct' now seen using 'class'
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\extra\ReactPhysics3D\include\reactphysics3d\collision\narrowphase\NarrowPhaseInfoBatch.h(38): message : see declaration of 'reactphysics3d::ContactManifoldInfo'
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\extra\ReactPhysics3D\include\reactphysics3d\engine\Islands.h(94,1): warning C4267: 'initializing': conversion from 'size_t' to 'reactphysics3d::uint32', possible loss of data
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\extra\ReactPhysics3D\include\reactphysics3d\utils\DebugRenderer.h(267,22): warning C4267: 'return': conversion from 'size_t' to 'reactphysics3d::uint32', possible loss of data
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\extra\ReactPhysics3D\include\reactphysics3d\utils\DebugRenderer.h(291,26): warning C4267: 'return': conversion from 'size_t' to 'reactphysics3d::uint32', possible loss of data
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\extra\ReactPhysics3D\include\reactphysics3d\engine\PhysicsWorld.h(710,34): warning C4267: 'return': conversion from 'size_t' to 'reactphysics3d::uint', possible loss of data
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\extra\ReactPhysics3D\include\reactphysics3d\engine\PhysicsWorld.h(718,30): warning C4267: 'return': conversion from 'size_t' to 'reactphysics3d::uint', possible loss of data
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\extra\ReactPhysics3D\include\reactphysics3d\collision\HalfEdgeStructure.h(135,32): warning C4267: 'return': conversion from 'size_t' to 'reactphysics3d::uint', possible loss of data
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\extra\ReactPhysics3D\include\reactphysics3d\collision\shapes\HeightFieldShape.h(197,104): warning C4244: 'return': conversion from 'double' to 'reactphysics3d::decimal', possible loss of data
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\extra\ReactPhysics3D\include\reactphysics3d\collision\shapes\HeightFieldShape.h(205,19): warning C4244: 'return': conversion from 'reactphysics3d::decimal' to 'int', possible loss of data
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\extra\ReactPhysics3D\include\reactphysics3d\collision\TriangleMesh.h(100,34): warning C4267: 'return': conversion from 'size_t' to 'reactphysics3d::uint', possible loss of data
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\extra\ReactPhysics3D\include\reactphysics3d\containers\Map.h(503,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\extra\ReactPhysics3D\include\reactphysics3d\containers\Map.h(435): message : while compiling class template member function 'void reactphysics3d::Map<int,reactphysics3d::Entity,std::hash<int>,std::equal_to<V>>::add(const reactphysics3d::Pair<K,reactphysics3d::Entity> &,bool)'
+          with
+          [
+              V=int,
+              K=int
+          ]
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\extra\ReactPhysics3D\include\reactphysics3d\systems\CollisionDetectionSystem.h(398): message : see reference to function template instantiation 'void reactphysics3d::Map<int,reactphysics3d::Entity,std::hash<int>,std::equal_to<V>>::add(const reactphysics3d::Pair<K,reactphysics3d::Entity> &,bool)' being compiled
+          with
+          [
+              V=int,
+              K=int
+          ]
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\extra\ReactPhysics3D\include\reactphysics3d\systems\CollisionDetectionSystem.h(102): message : see reference to class template instantiation 'reactphysics3d::Map<int,reactphysics3d::Entity,std::hash<int>,std::equal_to<V>>' being compiled
+          with
+          [
+              V=int
+          ]
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\extra\ReactPhysics3D\include\reactphysics3d\containers\Set.h(480,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\extra\ReactPhysics3D\include\reactphysics3d\containers\Set.h(425): message : while compiling class template member function 'bool reactphysics3d::Set<reactphysics3d::bodypair,std::hash<V>,std::equal_to<V>>::add(const V &)'
+          with
+          [
+              V=reactphysics3d::bodypair
+          ]
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\extra\ReactPhysics3D\include\reactphysics3d\systems\CollisionDetectionSystem.h(403): message : see reference to function template instantiation 'bool reactphysics3d::Set<reactphysics3d::bodypair,std::hash<V>,std::equal_to<V>>::add(const V &)' being compiled
+          with
+          [
+              V=reactphysics3d::bodypair
+          ]
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\extra\ReactPhysics3D\include\reactphysics3d\systems\CollisionDetectionSystem.h(93): message : see reference to class template instantiation 'reactphysics3d::Set<reactphysics3d::bodypair,std::hash<V>,std::equal_to<V>>' being compiled
+          with
+          [
+              V=reactphysics3d::bodypair
+          ]
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\extra\ReactPhysics3D\include\reactphysics3d\containers\List.h(331,1): warning C4267: 'argument': conversion from 'size_t' to 'reactphysics3d::uint', possible loss of data
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\extra\ReactPhysics3D\include\reactphysics3d\containers\List.h(329): message : while compiling class template member function 'reactphysics3d::List<reactphysics3d::Collider *>::Iterator reactphysics3d::List<reactphysics3d::Collider *>::remove(const reactphysics3d::List<reactphysics3d::Collider *>::Iterator &)'
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\extra\ReactPhysics3D\include\reactphysics3d\containers\List.h(324): message : see reference to function template instantiation 'reactphysics3d::List<reactphysics3d::Collider *>::Iterator reactphysics3d::List<reactphysics3d::Collider *>::remove(const reactphysics3d::List<reactphysics3d::Collider *>::Iterator &)' being compiled
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\extra\ReactPhysics3D\include\reactphysics3d\collision\shapes\CollisionShape.h(80): message : see reference to class template instantiation 'reactphysics3d::List<reactphysics3d::Collider *>' being compiled
+  RigidPlane.cpp
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\Matrix4x4.h(106,44): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\Matrix4x4.h(107,44): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\Matrix4x4.h(108,44): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\Matrix4x4.h(109,44): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\extra\ReactPhysics3D\include\reactphysics3d\collision\CollisionCallback.h(300,73): warning C4267: 'return': conversion from 'size_t' to 'reactphysics3d::uint', possible loss of data
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\extra\ReactPhysics3D\include\reactphysics3d\collision\OverlapCallback.h(189,73): warning C4267: 'return': conversion from 'size_t' to 'reactphysics3d::uint', possible loss of data
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\extra\ReactPhysics3D\include\reactphysics3d\collision\OverlapCallback.h(207,123): warning C4267: 'argument': conversion from 'size_t' to 'const reactphysics3d::uint', possible loss of data
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\extra\ReactPhysics3D\include\reactphysics3d\collision\ContactManifold.h(37,26): warning C4099: 'reactphysics3d::ContactManifoldInfo': type name first seen using 'struct' now seen using 'class'
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\extra\ReactPhysics3D\include\reactphysics3d\collision\ContactManifoldInfo.h(42): message : see declaration of 'reactphysics3d::ContactManifoldInfo'
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\extra\ReactPhysics3D\include\reactphysics3d\collision\narrowphase\NarrowPhaseInfoBatch.h(38,26): warning C4099: 'reactphysics3d::ContactManifoldInfo': type name first seen using 'struct' now seen using 'class'
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\extra\ReactPhysics3D\include\reactphysics3d\collision\ContactManifold.h(37): message : see declaration of 'reactphysics3d::ContactManifoldInfo'
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\extra\ReactPhysics3D\include\reactphysics3d\collision\narrowphase\NarrowPhaseInfoBatch.h(129,37): warning C4267: 'return': conversion from 'size_t' to 'reactphysics3d::uint', possible loss of data
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\extra\ReactPhysics3D\include\reactphysics3d\collision\narrowphase\NarrowPhaseAlgorithm.h(36,26): warning C4099: 'reactphysics3d::ContactManifoldInfo': type name first seen using 'struct' now seen using 'class'
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\extra\ReactPhysics3D\include\reactphysics3d\collision\narrowphase\NarrowPhaseInfoBatch.h(38): message : see declaration of 'reactphysics3d::ContactManifoldInfo'
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\extra\ReactPhysics3D\include\reactphysics3d\engine\Islands.h(94,1): warning C4267: 'initializing': conversion from 'size_t' to 'reactphysics3d::uint32', possible loss of data
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\extra\ReactPhysics3D\include\reactphysics3d\utils\DebugRenderer.h(267,22): warning C4267: 'return': conversion from 'size_t' to 'reactphysics3d::uint32', possible loss of data
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\extra\ReactPhysics3D\include\reactphysics3d\utils\DebugRenderer.h(291,26): warning C4267: 'return': conversion from 'size_t' to 'reactphysics3d::uint32', possible loss of data
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\extra\ReactPhysics3D\include\reactphysics3d\engine\PhysicsWorld.h(710,34): warning C4267: 'return': conversion from 'size_t' to 'reactphysics3d::uint', possible loss of data
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\extra\ReactPhysics3D\include\reactphysics3d\engine\PhysicsWorld.h(718,30): warning C4267: 'return': conversion from 'size_t' to 'reactphysics3d::uint', possible loss of data
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\extra\ReactPhysics3D\include\reactphysics3d\collision\HalfEdgeStructure.h(135,32): warning C4267: 'return': conversion from 'size_t' to 'reactphysics3d::uint', possible loss of data
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\extra\ReactPhysics3D\include\reactphysics3d\collision\shapes\HeightFieldShape.h(197,104): warning C4244: 'return': conversion from 'double' to 'reactphysics3d::decimal', possible loss of data
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\extra\ReactPhysics3D\include\reactphysics3d\collision\shapes\HeightFieldShape.h(205,19): warning C4244: 'return': conversion from 'reactphysics3d::decimal' to 'int', possible loss of data
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\extra\ReactPhysics3D\include\reactphysics3d\collision\TriangleMesh.h(100,34): warning C4267: 'return': conversion from 'size_t' to 'reactphysics3d::uint', possible loss of data
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\extra\ReactPhysics3D\include\reactphysics3d\containers\Map.h(503,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\extra\ReactPhysics3D\include\reactphysics3d\containers\Map.h(435): message : while compiling class template member function 'void reactphysics3d::Map<int,reactphysics3d::Entity,std::hash<int>,std::equal_to<V>>::add(const reactphysics3d::Pair<K,reactphysics3d::Entity> &,bool)'
+          with
+          [
+              V=int,
+              K=int
+          ]
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\extra\ReactPhysics3D\include\reactphysics3d\systems\CollisionDetectionSystem.h(398): message : see reference to function template instantiation 'void reactphysics3d::Map<int,reactphysics3d::Entity,std::hash<int>,std::equal_to<V>>::add(const reactphysics3d::Pair<K,reactphysics3d::Entity> &,bool)' being compiled
+          with
+          [
+              V=int,
+              K=int
+          ]
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\extra\ReactPhysics3D\include\reactphysics3d\systems\CollisionDetectionSystem.h(102): message : see reference to class template instantiation 'reactphysics3d::Map<int,reactphysics3d::Entity,std::hash<int>,std::equal_to<V>>' being compiled
+          with
+          [
+              V=int
+          ]
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\extra\ReactPhysics3D\include\reactphysics3d\containers\Set.h(480,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\extra\ReactPhysics3D\include\reactphysics3d\containers\Set.h(425): message : while compiling class template member function 'bool reactphysics3d::Set<reactphysics3d::bodypair,std::hash<V>,std::equal_to<V>>::add(const V &)'
+          with
+          [
+              V=reactphysics3d::bodypair
+          ]
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\extra\ReactPhysics3D\include\reactphysics3d\systems\CollisionDetectionSystem.h(403): message : see reference to function template instantiation 'bool reactphysics3d::Set<reactphysics3d::bodypair,std::hash<V>,std::equal_to<V>>::add(const V &)' being compiled
+          with
+          [
+              V=reactphysics3d::bodypair
+          ]
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\extra\ReactPhysics3D\include\reactphysics3d\systems\CollisionDetectionSystem.h(93): message : see reference to class template instantiation 'reactphysics3d::Set<reactphysics3d::bodypair,std::hash<V>,std::equal_to<V>>' being compiled
+          with
+          [
+              V=reactphysics3d::bodypair
+          ]
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\extra\ReactPhysics3D\include\reactphysics3d\containers\List.h(331,1): warning C4267: 'argument': conversion from 'size_t' to 'reactphysics3d::uint', possible loss of data
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\extra\ReactPhysics3D\include\reactphysics3d\containers\List.h(329): message : while compiling class template member function 'reactphysics3d::List<reactphysics3d::Collider *>::Iterator reactphysics3d::List<reactphysics3d::Collider *>::remove(const reactphysics3d::List<reactphysics3d::Collider *>::Iterator &)'
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\extra\ReactPhysics3D\include\reactphysics3d\containers\List.h(324): message : see reference to function template instantiation 'reactphysics3d::List<reactphysics3d::Collider *>::Iterator reactphysics3d::List<reactphysics3d::Collider *>::remove(const reactphysics3d::List<reactphysics3d::Collider *>::Iterator &)' being compiled
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\extra\ReactPhysics3D\include\reactphysics3d\collision\shapes\CollisionShape.h(80): message : see reference to class template instantiation 'reactphysics3d::List<reactphysics3d::Collider *>' being compiled
+  SceneCameraHandler.cpp
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\Matrix4x4.h(106,44): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\Matrix4x4.h(107,44): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\Matrix4x4.h(108,44): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\Matrix4x4.h(109,44): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\SceneCameraHandler.cpp(23,44): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  ScenePlayScreen.cpp
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\Matrix4x4.h(106,44): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\Matrix4x4.h(107,44): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\Matrix4x4.h(108,44): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\Matrix4x4.h(109,44): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  ShaderManager.cpp
+  Sphere.cpp
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\Matrix4x4.h(106,44): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\Matrix4x4.h(107,44): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\Matrix4x4.h(108,44): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\Matrix4x4.h(109,44): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  SwapChain.cpp
+  Texture.cpp
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\Texture.cpp(19,64): warning C4267: '=': conversion from 'size_t' to 'UINT', possible loss of data
+  TexturedCube.cpp
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\Matrix4x4.h(106,44): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\Matrix4x4.h(107,44): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\Matrix4x4.h(108,44): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\Matrix4x4.h(109,44): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\TexturedCube.cpp(82,173): warning C4267: 'argument': conversion from 'size_t' to 'UINT', possible loss of data
+  TexturedVertexBuffer.cpp
+  TextureManager.cpp
+  UIManager.cpp
+  VertexBuffer.cpp
+  VertexShader.cpp
+  Window.cpp
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\Window.h(2,1): warning C4005: 'NOMINMAX': macro redefinition
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\Window.cpp : message : see previous definition of 'NOMINMAX'
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\Window.cpp(78,45): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Programs\GD-ENG2\GDENG2-Personal\Project2\Window.cpp(78,20): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Generating Code...
+  Project2.vcxproj -> D:\Programs\GD-ENG2\GDENG2-Personal\x64\Debug\Project2.exe
